@@ -1,5 +1,5 @@
 import { defineConfig } from 'vite'
 
 export default defineConfig({
-  base: 'https://github.com/insertnewusername/nasaweb',
+  base: '/insertnewusername/nasaweb',
 })
