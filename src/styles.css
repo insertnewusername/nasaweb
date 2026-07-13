@@ -35,21 +35,21 @@ h1 {
     background-color:cadetblue;
     padding: 1rem 0;
     font-family: 'Yuyu', sans-serif;
-    font-size: 1.8rem;
+    font-size: 2.5rem;
 }
 h2 {
     text-align: center;
     background-color:cadetblue;
     padding: 1rem 0;
     font-family: 'Yuyu', sans-serif;
-    font-size: 1.3rem;
+    font-size: 1.8rem;
 }
 p {
     text-align: center;
     background-color:cadetblue;
     padding: 1rem 0;
     font-family: 'Yuyu', sans-serif;
-    font-size: 2rem;
+    font-size: 1.8rem;
 }
 
 img, video {
