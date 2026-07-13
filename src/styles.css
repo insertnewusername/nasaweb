@@ -19,5 +19,10 @@ body::after {
 
 h1 {
     text-align: center;
-    background-color:cadetblue
+    background-color:cadetblue;
+}
+
+p {
+    text-align: center;
+    background-color:cadetblue;
 }
