@@ -37,7 +37,13 @@ h1 {
     font-family: 'Yuyu', sans-serif;
     font-size: 1.8rem;
 }
-
+h2 {
+    text-align: center;
+    background-color:cadetblue;
+    padding: 1rem 0;
+    font-family: 'Yuyu', sans-serif;
+    font-size: 1.3rem;
+}
 p {
     text-align: center;
     background-color:cadetblue;
