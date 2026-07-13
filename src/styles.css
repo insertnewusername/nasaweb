@@ -16,3 +16,8 @@ body::after {
     background: #4343a4;
     z-index: -1;
 }
+
+h1 {
+    text-align: center;
+    background-color:cadetblue
+}
