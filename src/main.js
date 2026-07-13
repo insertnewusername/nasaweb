@@ -9,10 +9,6 @@ fetch(`https://api.nasa.gov/planetary/apod?api_key=${API_KEY}`)
 })
 
 .then(data => {
-    document.querySelector("#app").innerHTML = `${data.title}`;
-})
-
-.then(data => {
     document.querySelector("#app").innerHTML = `
         <h1>${data.title}</h1>
         <img src="${data.url}" />
