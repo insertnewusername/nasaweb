@@ -33,11 +33,13 @@ body::after {
 h1 {
     text-align: center;
     background-color:cadetblue;
+    padding: 1rem 0;
 }
 
 p {
     text-align: center;
     background-color:cadetblue;
+    padding: 1rem 0;
 }
 
 img, video {
