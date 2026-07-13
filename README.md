@@ -1,4 +1,4 @@
-<h1>Nasaweb</h1>
+Nasaweb
 
 Nasaweb is a website that fetches the image of the day from nasa and then displays it on the website.
 
