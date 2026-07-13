@@ -37,10 +37,6 @@ p {
     background-color:cadetblue;
 }
 
-img {
-    text-align: center;
-}
-
-video {
+.imgandvid {
     text-align: center;
 }
