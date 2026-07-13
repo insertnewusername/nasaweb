@@ -5,7 +5,9 @@ body {
     position: relative;
     padding: 2rem 0;
 }
-
+#app {
+    text-align: center;
+}
 
 body::before{
     left: 0;
